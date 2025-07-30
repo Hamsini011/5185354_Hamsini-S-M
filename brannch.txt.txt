@@ -1,0 +1,3 @@
+this is only feature1 branch
+i am merging and showing some changes in github repo
+making changes only in feature1 barnch
