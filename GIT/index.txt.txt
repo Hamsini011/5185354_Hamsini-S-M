@@ -3,3 +3,4 @@ untracked file
 modified  
 staged 
 unmodified 
+unchanged
